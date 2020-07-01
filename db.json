@@ -2,214 +2,411 @@
    "json":{
       "features":[
          {
-            "simbolo":"/SvgService/symbol.svg?symbol=0",
+            "simbolo":"/SvgService/symbol.svg?symbol=100130&color=_DC143C",
             "osm":false,
             "geometry":{
                "coordinates":[
-                  [
-                     [
-                        -43.4403370594223,
-                        -22.2433083590268
-                     ],
-                     [
-                        -43.4402157260378,
-                        -22.2433117237647
-                     ],
-                     [
-                        -43.4311918442376,
-                        -22.2391200764448
-                     ],
-                     [
-                        -43.4188198619016,
-                        -22.2220907244646
-                     ],
-                     [
-                        -43.4126494107525,
-                        -22.2184168917552
-                     ],
-                     [
-                        -43.3851683333439,
-                        -22.204558909184
-                     ],
-                     [
-                        -43.3728326564376,
-                        -22.197063936332
-                     ],
-                     [
-                        -43.3659051278547,
-                        -22.1919345242711
-                     ],
-                     [
-                        -43.3581871892703,
-                        -22.1880986541775
-                     ],
-                     [
-                        -43.3534140080876,
-                        -22.1847255838878
-                     ],
-                     [
-                        -43.3301329100432,
-                        -22.1710447901237
-                     ],
-                     [
-                        -43.3199420731622,
-                        -22.1664592234109
-                     ],
-                     [
-                        -43.3165729256912,
-                        -22.1662015813228
-                     ]
-                  ]
+                  -43.283545,
+                  -22.91296
                ],
-               "type":"MultiLineString"
+               "type":"Point"
             },
             "resumo":{
-               "Tipo do dado":{
-                  "value":"Ferrovias",
-                  "order":4
-               },
-               "Fonte do dado":{
-                  "value":"IBGE",
-                  "order":3
-               },
-               "Administração":{
-                  "value":"Federal",
+               "Sigla":{
+                  "value":"HNMD",
                   "order":2
                },
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
                "Nome":{
-                  "value":"Sem Toponimia Carta Impressa",
+                  "value":"HOSPITAL NAVAL MARCÍLIO DIAS",
                   "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
                }
             },
             "type":"Feature",
             "relevance":0,
             "properties":{
-               "gid":{
-                  "value":"59639",
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58040130101010000105",
                   "order":null
-               },
-               "maplinecolor":{
-                  "value":"#CCFFCC",
-                  "order":null
-               },
-               "concessao":{
-                  "value":"",
-                  "order":null
-               },
-               "maplinesymbolsize":{
-                  "value":"1",
-                  "order":null
-               },
-               "versaozulu":{
-                  "value":"141719Z/MAI/14",
-                  "order":null
-               },
-               "capacidades":{
-                  "value":"",
-                  "order":null
-               },
-               "maplinesymbol":{
-                  "value":"0",
-                  "order":null
-               },
-               "info_contato":{
-                  "value":"",
-                  "order":null
-               },
-               "id_entidade":{
-                  "value":"59639",
-                  "order":null
-               },
-               "tipo_dado":{
-                  "value":"Ferrovias",
-                  "order":4
-               },
-               "maplinestyle":{
-                  "value":"0",
-                  "order":null
-               },
-               "extensaokm":{
-                  "value":"15.612781",
-                  "order":null
-               },
-               "Nome":{
-                  "value":"Sem Toponimia Carta Impressa",
-                  "order":1
-               },
-               "orgid_controlador":{
-                  "value":"",
-                  "order":null
-               },
-               "cod_entidade":{
-                  "value":"VIA",
-                  "order":null
-               },
-               "maplinewidth":{
-                  "value":"1",
-                  "order":null
-               },
-               "tipo_bitola":{
-                  "value":"nao informado",
-                  "order":null
-               },
-               "simb_linha_id":{
-                  "value":"1",
-                  "order":null
-               },
-               "sigla_org":{
-                  "value":"",
-                  "order":null
-               },
-               "codigo":{
-                  "value":"",
-                  "order":null
-               },
-               "info_adicionais":{
-                  "value":"Orgão controlador: nao informado *",
-                  "order":null
-               },
-               "administracaoid":{
-                  "value":"0",
-                  "order":null
-               },
-               "fonte":{
-                  "value":"",
-                  "order":null
-               },
-               "situacao_ferrovia":{
-                  "value":"independente",
-                  "order":null
-               },
-               "qtd_metadados_ordenados":{
-                  "value":"2",
-                  "order":null
-               },
-               "condicao_ferrovia":{
-                  "value":"em uso",
-                  "order":null
-               },
-               "Nome_org":{
-                  "value":"",
-                  "order":null
-               },
-               "Nome_tipo_administracao":{
-                  "value":"Federal",
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=634&color=_000080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -44.327819,
+                  -23.013595
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"CN",
                   "order":2
                },
-               "fonte_dado":{
-                  "value":"IBGE",
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"COLÉGIO NAVAL",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
                   "order":3
-               },
-               "link_web":{
-                  "value":"",
+               }
+            },
+            "type":"Feature",
+            "relevance":1,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58040130101010000086",
                   "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=84&color=_000080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -43.171487,
+                  -22.895949
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"BtlNav",
+                  "order":2
                },
-               "maplinesymbolcolor":{
-                  "value":"#CCFFCC",
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"BATALHÃO NAVAL",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":2,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58040130101010000043",
                   "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=634&color=_000080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -43.160447,
+                  -22.913986
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"EN",
+                  "order":2
                },
-               "versao":{
-                  "value":"2014/05/14 17:19:10.748162000",
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"ESCOLA NAVAL",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":3,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58040130101010000087",
+                  "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=84&color=_000080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -43.171487,
+                  -22.895949
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"CiaPolBtlNav",
+                  "order":2
+               },
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"COMPANHIA DE POLÍCIA DO BATALHÃO NAVAL",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":4,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58040130101010000044",
+                  "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=634&color=_000080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -43.16746,
+                  -22.954453
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"EGN",
+                  "order":2
+               },
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"ESCOLA DE GUERRA NAVAL",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":5,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58040130101010000039",
+                  "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=0&color=_008080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -42.1035286701541,
+                  -22.8372031947556
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"GAerNavMan",
+                  "order":2
+               },
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"GRUPO AÉRO NAVAL DE MANUTENÇÃO",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":6,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58419121213341914",
+                  "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=0&color=_008080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -43.2278751249952,
+                  -22.8766521181864
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"CoNavOpEsp",
+                  "order":2
+               },
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"COMANDO NAVAL DE OPERAÇÕES ESPECIAIS",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":7,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/58420030415175750",
+                  "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=0&color=_008080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -43.2278751249952,
+                  -22.8766521181864
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"CoNavOpEsp",
+                  "order":2
+               },
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"COMANDO NAVAL DE OPERAÇÕES ESPECIAIS",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":8,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/584200304154226104",
+                  "order":null
+               }
+            }
+         },
+         {
+            "simbolo":"/SvgService/symbol.svg?symbol=0&color=_008080",
+            "osm":false,
+            "geometry":{
+               "coordinates":[
+                  -43.2278751249952,
+                  -22.8766521181864
+               ],
+               "type":"Point"
+            },
+            "resumo":{
+               "Sigla":{
+                  "value":"CoNavOpEsp",
+                  "order":2
+               },
+               "Tipo do dado":{
+                  "value":"Organizações Militares",
+                  "order":5
+               },
+               "Fonte do dado":{
+                  "value":"Ministério da Defesa",
+                  "order":4
+               },
+               "Nome":{
+                  "value":"COMANDO NAVAL DE OPERAÇÕES ESPECIAIS",
+                  "order":1
+               },
+               "Força":{
+                  "value":"Marinha do Brasil",
+                  "order":3
+               }
+            },
+            "type":"Feature",
+            "relevance":9,
+            "properties":{
+               ".wsGetInfoComplementar":{
+                  "value":"organiza%C3%A7%C3%A3o/584200310083220184",
                   "order":null
                }
             }
@@ -219,7 +416,7 @@
    },
    "tipos":[
       {
-         "Ferrovias":1
+         "Organizações Militares":329
       }
    ]
 }
